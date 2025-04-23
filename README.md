@@ -1,2 +1,2 @@
-# GAN_an_iilustration
+# GAN_an_illustration
 Demonstrating GANs on greyscale and RGB image generation. 
